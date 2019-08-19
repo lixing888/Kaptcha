@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 /**
  * 验证码图片
  * @author lixing
- * http://localhost/toIndex
+ * http://localhost:8888/toIndex
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 @EnableAutoConfiguration
